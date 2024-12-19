@@ -1,0 +1,12 @@
+Instruction Counts:
+===================
+br: 143364
+icmp: 98723
+add: 95246
+load: 44594
+call: 34014
+getelementptr: 15222
+freeze: 10016
+store: 4144
+srem: 433
+alloca: 4
